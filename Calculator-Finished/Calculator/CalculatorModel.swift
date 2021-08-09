@@ -1,10 +1,3 @@
-//
-//  CalculatorModel.swift
-//  Calculator
-//
-//  Created by luxiaofei on 2021/8/9.
-//
-
 import Foundation
 import Combine
 
